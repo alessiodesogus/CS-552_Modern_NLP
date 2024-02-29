@@ -131,3 +131,5 @@ dmypy.json
 wandb/
 training_output/
 .DS_Store
+
+/SimLex-999.txt
