@@ -132,4 +132,6 @@ wandb/
 training_output/
 .DS_Store
 
-Exercises/Exercises/Week 1 - Word Embeddings/SimLex-999.txt
+# Dataset
+SimLex-999.txt
+IMDB Dataset.csv
